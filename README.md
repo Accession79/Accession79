@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi There 👋
+## This is Mohit
 
-<!--
-**Accession79/Accession79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 I'm currently in 3rd year BTech CSE with Specilisation in Artificial Intelligence and Machine Learning
 
-Here are some ideas to get you started:
+🧠 I'm currently learning about Data Analytics and Machine Learning along with Python and Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me
+
+- [**Linkedin**](https://www.linkedin.com/)
+
+- [**Email**](mohitsharma1006@gmail.com/)
+
+![Image]()
