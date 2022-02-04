@@ -7,8 +7,8 @@
 
 📫 Reach me
 
-- [**Linkedin**](https://www.linkedin.com/)
+- [**Linkedin**](https://www.linkedin.com/in/mohit-sharma-3b466718b)
 
-- [**Email**](mohitsharma1006@gmail.com/)
+- [**Email**](mohits1649@gmail.com/)
 
 ![Image](https://raw.githubusercontent.com/Accession79/Accession79/main/githubimg.jpg)
