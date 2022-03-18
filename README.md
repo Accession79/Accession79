@@ -7,7 +7,7 @@
 
 📫 Reach me
 
-- [**Linkedin**](https://www.linkedin.com/in/mohit-sharma-3b466718b)
+- [**Linkedin**](https://www.linkedin.com/in/accession79/)
 
 - [**Email**](mohits1649@gmail.com/)
 
